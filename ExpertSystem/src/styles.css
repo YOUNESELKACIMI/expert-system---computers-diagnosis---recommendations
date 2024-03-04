@@ -1,0 +1,12 @@
+/* src/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hex-bg {
+    background-color: #85dcba; /* Replace with your hex color code */
+  }
+
+.button-bg{
+    background-color: rgb(23, 166, 255);
+}

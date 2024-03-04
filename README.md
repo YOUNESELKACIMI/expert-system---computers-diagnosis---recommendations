@@ -1,6 +1,6 @@
 # This is an expert system for computer diagnosis and recommendations for troubleshooting
 
-#Technologies stack is the MERN stack; MongoDB, Express, React, Node, with REST API and secure authentication with JSON Web Tokens(jwt) for the Expert session 
+# Technologies stack is the MERN stack; MongoDB, Express, React, Node, with REST API and secure authentication with JSON Web Tokens(jwt) for the Expert session 
 
 #Home page
 ![Home](https://github.com/YOUNESELKACIMI/expert-system---computers-diagnosis---recommendations/assets/119015253/b5aba12e-58ef-4020-95d3-237baf4f4e82)

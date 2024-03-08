@@ -24,4 +24,4 @@
  
  4. run the server: `cd backend` | `npm install` | `npm run dev`
  5. run the frontend `ExpertSystem` | `npm install` | `npm run dev`
- 6. configure admin credentials in set your rudimentary symptoms in your MongoDB to start with and you are good to go!!!
+ 6. configure admin credentials and set some rudimentary symptoms in your MongoDB to start with and you are good to go!!!

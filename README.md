@@ -17,6 +17,11 @@
 # Admin/Expert Session
 ![Expert Home](https://github.com/YOUNESELKACIMI/expert-system---computers-diagnosis---recommendations/assets/119015253/4a151755-2552-4da0-aa60-43707a1ea41c)
 
- 1. clone the project
- 2. run the server: `cd backend` | `npm install` | `npm run dev`
- 3. run the frontend `ExpertSystem` | `npm install` | `npm run dev`
+ 1. clone the project 
+ 2. change directory to `backend` directory, set up a `.env` that has three variabels `PORT` for the the Express server, `MONGODB_URI` the MongoDB connection URL connection and `SECRET` which is a key used to sign tokens in JWT
+ ![Url connection](https://github.com/YOUNESELKACIMI/expert-system---computers-diagnosis---recommendations/assets/119015253/2b9a9e35-3291-4246-b1e9-57c73ebef413)
+![envfile](https://github.com/YOUNESELKACIMI/expert-system---computers-diagnosis---recommendations/assets/119015253/ba4b4209-0f99-4147-a34b-e13d1c390437)
+ 
+ 4. run the server: `cd backend` | `npm install` | `npm run dev`
+ 5. run the frontend `ExpertSystem` | `npm install` | `npm run dev`
+ 6. configure admin credentials in set your rudimentary symptoms in your MongoDB to start with and you are good to go!!!

@@ -16,3 +16,7 @@
 
 # Admin/Expert Session
 ![Expert Home](https://github.com/YOUNESELKACIMI/expert-system---computers-diagnosis---recommendations/assets/119015253/4a151755-2552-4da0-aa60-43707a1ea41c)
+
+ 1. clone the project
+ 2. run the server: `cd backend` | `npm install` | `npm run dev`
+ 3. run the frontend `ExpertSystem` | `npm install` | `npm run dev`
